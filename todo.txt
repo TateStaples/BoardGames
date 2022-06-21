@@ -1,0 +1,23 @@
+General:
+
+Chess:
+- make not trash
+
+Connect4:
+
+Go:
+- eveything
+
+Minesweeper:
+- improve logic
+
+Scrabble:
+- use perspective transforms
+- better search algorithm
+
+Sudoko:
+- improve logic
+
+Ideas:
+- poker
+-
